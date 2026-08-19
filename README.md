@@ -1,12 +1,15 @@
-<p align="center">
+<img width="99" height="56" alt="agender_stamp" src="https://github.com/user-attachments/assets/cff47548-0e75-4df2-a207-5ae7f4b168c9" /><p align="center">
     still learning how to do this. . .
 </p>
 <p align="center">
 <img width="350" height="350" alt="zane-zane-ninjago" src="https://github.com/user-attachments/assets/6c3a9e31-d80c-41b5-9439-0b6aea3dbe21" />
 </p>
 <p align="center">
-<img width="50" height="50" alt="Aroace_Flag" src="https://github.com/user-attachments/assets/fddb9bd2-8ccb-4a65-a0b1-e340798a9af6" /> <img width="50" height="50" alt="images" src="https://github.com/user-attachments/assets/323de50e-5728-46f2-b992-dd91dbf1c108" />
+<img width="99" height="56" alt="aro_stamp" src="https://github.com/user-attachments/assets/dbef6d8f-45bc-4f34-983d-621123806b54" /> <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/6167eca6-03b0-4715-be6f-58fa4a6ff0af" />
 </p>
+
+
+
 
 
 <!--<?xml version="1.0" encoding="UTF-8"?>
