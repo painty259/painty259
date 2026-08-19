@@ -5,9 +5,6 @@
 <img width="350" height="350" alt="zane-zane-ninjago" src="https://github.com/user-attachments/assets/6c3a9e31-d80c-41b5-9439-0b6aea3dbe21" />
 </p>
 
-<p></p>
-<p align="center">
-    you can call me fern or whoever i am playing as :D i am a big rose or zane kinnie and i play as those two the most 
-</p>
+
 <!--
 **painty259/painty259** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
