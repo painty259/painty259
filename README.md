@@ -5,8 +5,8 @@
 <img width="350" height="350" alt="zane-zane-ninjago" src="https://github.com/user-attachments/assets/6c3a9e31-d80c-41b5-9439-0b6aea3dbe21" />
 </p>
 <p align="center">
-<img width="68" height="35" alt="aroace_stamp" src="https://github.com/user-attachments/assets/62bb4e0e-ce81-420b-8a9e-858cbf16ad17" />
- <img width="68" height="35" alt="image" src="https://github.com/user-attachments/assets/6167eca6-03b0-4715-be6f-58fa4a6ff0af" />
+<img width="68" height="45" alt="aroace_stamp" src="https://github.com/user-attachments/assets/62bb4e0e-ce81-420b-8a9e-858cbf16ad17" />
+ <img width="68" height="45" alt="image" src="https://github.com/user-attachments/assets/6167eca6-03b0-4715-be6f-58fa4a6ff0af" />
 </p>
 
 
