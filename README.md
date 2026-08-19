@@ -1,5 +1,4 @@
-## Hi there 👋
-
+still learning how to do this. . .
 <!--
 **painty259/painty259** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
