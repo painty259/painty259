@@ -10,7 +10,7 @@
  <img width="56" height="34" alt="image" src="https://github.com/user-attachments/assets/6167eca6-03b0-4715-be6f-58fa4a6ff0af" />
 </p>
 
-<p align="center" style="color:#73777d;">they/them or any, aroace</p>
+<p align="center" style="color:red;">they/them or any, aroace</p>
 
 <p align="center"> strwpage soon to come  </p>
 
