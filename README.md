@@ -1,7 +1,7 @@
 
 
 
-</p>
+
 <p align="center">
 <img width="350" height="350" alt="zane-zane-ninjago" src="https://github.com/user-attachments/assets/6c3a9e31-d80c-41b5-9439-0b6aea3dbe21" />
 </p>
@@ -10,6 +10,8 @@
  <img width="56" height="34" alt="image" src="https://github.com/user-attachments/assets/6167eca6-03b0-4715-be6f-58fa4a6ff0af" />
 </p>
 
+<p align="center"> link wips </p>
+<p align="center"> sign my  <a href="https://iceninja.atabook.org/">ata book</a> ! 
 
 
 
