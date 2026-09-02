@@ -11,7 +11,7 @@
 </p>
 
 <p align="center" style="color:red;">they/them or any, aroace</p>
-
+$\color{#73777d}{they/them or any, aroace}$
 <p align="center"> strwpage soon to come  </p>
 
 <p align="center"> sign my  <a href="https://iceninja.atabook.org/">ata book</a> ! 
