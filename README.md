@@ -7,6 +7,7 @@
 </p>
 <p align="center">
 <img width="56" height="34" alt="aroace_stamp" src="https://github.com/user-attachments/assets/62bb4e0e-ce81-420b-8a9e-858cbf16ad17" />
+ they/them or any, aroace
  <img width="56" height="34" alt="image" src="https://github.com/user-attachments/assets/6167eca6-03b0-4715-be6f-58fa4a6ff0af" />
 </p>
 
